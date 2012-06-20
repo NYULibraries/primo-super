@@ -1,0 +1,6 @@
+[submodule "plugins"]
+	path = plugins
+	url = git@github.com:NYULibraries/primo-plugins.git
+[submodule "enrichment"]
+	path = enrichment
+	url = git@github.com:NYULibraries/primo-enrichment.git
