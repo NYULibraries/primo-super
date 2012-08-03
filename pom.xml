@@ -106,5 +106,6 @@
   <modules>
     <module>plugins</module>
     <module>enrichment</module>
+    <module>enrichment-common</module>
   </modules>
 </project>

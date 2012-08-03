@@ -4,6 +4,6 @@
 [submodule "enrichment"]
 	path = enrichment
 	url = git@github.com:NYULibraries/primo-enrichment.git
-[submodule "primo-enrichment-common"]
-	path = primo-enrichment-common
+[submodule "enrichment-common"]
+	path = enrichment-common
 	url = git@github.com:NYULibraries/primo-enrichment-common.git
