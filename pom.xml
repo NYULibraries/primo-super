@@ -10,6 +10,11 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 	<dependencies>
+    <dependency>
+      <groupId>edu.nyu.library</groupId>
+      <artifactId>datawarehouse</artifactId>
+      <version>1.0.0-alpha.1</version>
+    </dependency>
 		<dependency>
 			<artifactId>maven-common</artifactId>
 			<groupId>edu.nyu.library</groupId>
